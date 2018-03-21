@@ -1,0 +1,4 @@
+blog/vendor
+blog/composer.lock
+blog/storage/
+*.swp
