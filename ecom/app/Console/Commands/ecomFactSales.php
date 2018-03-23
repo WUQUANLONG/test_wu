@@ -1,11 +1,8 @@
 <?php
-
 namespace App\Console\Commands;
-namespace App\Http\Controllers;
 use Illuminate\Console\Command;
 use App\ecom;
 use DB;
-use App\Http\Controllers\Controller;
 class ecomFactSales extends Command
 {
     /**
